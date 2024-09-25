@@ -1,0 +1,16 @@
+.fi-sidebar {
+  background-color: white !important;
+  box-shadow: 4px 0 10px rgba(0, 0, 0, 0.05) !important;
+  border-right: none !important;
+}
+
+.dark .fi-sidebar {
+  background-color: #171d24 !important;
+  box-shadow: 4px 0 10px rgba(0, 0, 0, 0.2) !important;
+}
+
+.fi-sidebar-item {
+  border-radius: 0.375rem !important;
+  margin: 0.25rem 0.75rem !important;
+  transition: background-color 0.2s ease-in-out !important;
+}
